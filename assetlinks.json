@@ -1,1 +1,9 @@
-test
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.gaurav.temp",
+    "sha256_cert_fingerprints":
+    ["B5:10:C4:8C:96:EB:92:5F:6D:AA:A1:EB:70:62:D9:A6:A3:12:77:F9:8E:F3:4C:7B:C2:C0:9A:BA:08:B7:3E:A6"]
+  }
+}]
